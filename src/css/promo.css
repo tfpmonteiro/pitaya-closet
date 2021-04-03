@@ -1,0 +1,12 @@
+.banner-content {
+  width: 1120px;
+  height: 702px;
+  margin-left: 160px;
+  margin-top: 116px;
+  display: block;
+}
+
+.banner-content img {
+  width: 100%;
+}
+

@@ -1,0 +1,68 @@
+
+.banner-content .promo-higher {
+  width: 149px;
+  height: 204px;
+  left: 1217px;
+  top: 195px;
+  position: absolute;
+  background: #9E98DC;
+}
+
+.banner-content .promo-higher p {
+  position: absolute;
+  width: 109px;
+  height: 66px;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+  text-transform: uppercase;
+  margin-top: 100px;
+  margin-left: 10px;
+  color: #1C2A39;
+}
+
+.banner-content .promo-higher img {
+  position: absolute;
+  width: 55px;
+  height: 12px;
+  margin-top: 170px;
+  margin-left: 10px;
+  color: #1C2A39;
+}
+
+.banner-content .promo-left {
+  width: 137px;
+  height: 273px;
+  left: 1303px;
+  top: 475px;
+  position: absolute;
+  background: #FF8FE6;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 22px;
+  text-transform: uppercase;
+}
+
+.banner-content .promo-left p {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 130px;
+  color: #1C2A39;
+}
+
+.banner-content .promo-left p:first-line {
+  font-size: 18px;
+  text-transform: lowercase;
+  font-weight: lighter;
+}
+
+.banner-content .promo-left img {
+  position: absolute;
+  width: 55px;
+  height: 12px;
+  margin-top: 230px;
+  margin-left: 10px;
+  color: #1C2A39;
+}
