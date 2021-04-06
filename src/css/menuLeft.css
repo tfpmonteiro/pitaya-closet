@@ -1,0 +1,37 @@
+.menu-left {
+  width: 416px;
+  height: 510px;
+  left: 0;
+  top: 952px;
+  background: #EFEEF6;
+}
+
+.menu-left ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.menu-left li {
+  width: 90%;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 35px;
+  padding: 20px;
+  color: #5C6A79;
+  transition: 0.2s;
+}
+
+.menu-left li:first-child {
+  margin-top: 50px;
+}
+
+.menu-left li:hover {
+  background: #e7e6ec;
+}
