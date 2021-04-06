@@ -15,7 +15,7 @@ const PromoSmall: React.FC<IPromoSmallProps> = (props) => {
   return (
     <div className={props.className}>
       <p>{props.description}</p>
-      <img src={arrow} alt="" />
+      <img className="arrow-svg" src={arrow} alt="" />
     </div>
   )
 }

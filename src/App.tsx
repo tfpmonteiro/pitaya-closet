@@ -1,4 +1,5 @@
 import BannerExtraLarge from "./components/banner/promoExtraLarge";
+import Clothes from "./components/content/clothes";
 import MenuHeader from "./components/menu/menuHeader";
 import MenuLeft from "./components/menu/menuLeft";
 
@@ -9,7 +10,11 @@ function App() {
     <div>
       <MenuHeader />
       <BannerExtraLarge />
-      <MenuLeft />
+      <div className="app-content">
+        <MenuLeft />
+        <Clothes />
+      </div>
+
     </div>
   );
 }

@@ -1,9 +1,8 @@
 .menu-left {
   width: 416px;
-  height: 510px;
   left: 0;
   top: 952px;
-  background: #EFEEF6;
+  background: linear-gradient(to right, #FFF, #EFEEF6 80%);
 }
 
 .menu-left ul {
@@ -34,4 +33,5 @@
 
 .menu-left li:hover {
   background: #e7e6ec;
+  box-shadow: 0px 12px 24px rgba(53, 49, 84, 0.28);
 }
